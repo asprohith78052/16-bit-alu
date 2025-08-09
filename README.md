@@ -43,15 +43,22 @@ The ALU is modular in design, making it easy to extend or integrate into larger 
   
 ## 📂 Module Structure
 
-*alu_design.v*
+**alu_design.v**
 │
-├── alu_design       # Main ALU controller
-├── signed_addition  # Signed addition using full adders
-├── signed_subtraction # Signed subtraction using full adders
-├── signed_division  # Multi-cycle signed division FSM
-├── AND / OR / XOR / NOR # Bitwise logic modules
-├── lsl / lsr / asr  # Shift modules
-└── full_adder       # Basic 1-bit full adder
+├── alu_design              # Main ALU controller
+│
+├── signed_addition         # Signed addition using full adders
+│
+├── signed_subtraction      # Signed subtraction using full adders
+│
+├── signed_division         # Multi-cycle signed division FSM
+│
+├── AND / OR / XOR / NOR    # Bitwise logic modules
+│
+├── lsl / lsr / asr         # Shift modules
+│
+└── full_adder              # Basic 1-bit full adder
+
 
 ## Control Signal Mapping
 
