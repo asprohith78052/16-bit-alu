@@ -101,7 +101,3 @@ This project is open-source under the **MIT License** – feel free to use, modi
 **Rohith Addepalli**
 📌 [LinkedIn](https://www.linkedin.com/in/rohith-addepalli)
 
----
-
-If you want, I can also create a **shorter, professional GitHub project description** so your repo looks clean when people visit it. This will be a 2–3 line summary that appears at the top of the repository.
-Would you like me to make that too?
