@@ -17,7 +17,6 @@
 // Revision 0.01 - File Created
 // Additional Comments:
 // 
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module alu_design(out,sign_flag,zero_flag,overflow,done,input0,input1,control_signal,sel1,sel2,sel3,clk,rst,start);
