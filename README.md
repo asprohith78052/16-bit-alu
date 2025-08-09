@@ -1,4 +1,4 @@
-# 16-bit ALU(structural design) with Multi-Cycle Signed Division in Verilog
+# 16-bit signed ALU (structural design) with Multi-Cycle Signed Division in Verilog
 
 This project implements a **16-bit Arithmetic Logic Unit (ALU)** in Verilog HDL, capable of performing a wide range of arithmetic, logical, and shift operations. It includes **multi-cycle signed division** with proper handling of negative numbers, zero division, and overflow detection.
 
